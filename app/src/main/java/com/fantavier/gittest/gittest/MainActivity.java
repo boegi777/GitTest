@@ -13,7 +13,12 @@ public class MainActivity extends AppCompatActivity {
         /*Juri hat bearbeitet*/
         /*Ich wieder*/
         /*Wo bleibt Anja?*/
+        /*Hello World!*/
     }
 
     /* Paul hat hier auch bearbeitet */
 }
+/* hiiii was geht*/
+
+
+/* bla*/
