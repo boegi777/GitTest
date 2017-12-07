@@ -10,6 +10,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         /* Paul hat bearbeitet */
+        /*Juri hat bearbeitet*/
+        /*Ich wieder*/
+        /*Wo bleibt Anja?*/
+        /*Hello World!*/
     }
 
     /* Paul hat hier auch bearbeitet */
