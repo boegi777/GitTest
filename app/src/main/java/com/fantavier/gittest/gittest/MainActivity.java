@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
         /*Juri hat bearbeitet*/
         /*Ich wieder*/
         /*Wo bleibt Anja?*/
+
+        /* Änderung 1. Pauls branch */
     }
 
     /* Paul hat hier auch bearbeitet */
