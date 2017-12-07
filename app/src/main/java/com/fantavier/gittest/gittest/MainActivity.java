@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         /* Änderung 1. Pauls branch */
     }
+    /*Juris Änderung*/
 
     /* Paul hat hier auch bearbeitet */
 }
